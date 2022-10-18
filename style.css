@@ -175,10 +175,11 @@ a:focus {
 .grid {
 	pointer-events: none; 
 	position: absolute;
-	width: 105%;
-	height: 105%;
-	top: -5%;
-	left: -5%;
+	width: 95%;
+	height: 95%;
+	top: +0%;
+	left: +0%;
+	bottom: +5%;
 	display: grid;
 	grid-template-columns: repeat(50,2%);
 	grid-template-rows: repeat(50,2%);
@@ -240,7 +241,7 @@ a:focus {
 }
 
 .pos-7 {
-	grid-area: 43 / 1 / 51 / 10;
+	grid-area: 40 / 1 / 51 / 10;
 }
 
 .pos-8 {
