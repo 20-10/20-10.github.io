@@ -361,7 +361,7 @@ a:focus {
 }
 
 .fa-heart {
-	color: grey;
+	color: red;
 	animation: heartbeat 1s infinite;
 }
 
