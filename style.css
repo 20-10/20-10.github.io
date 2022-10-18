@@ -175,8 +175,8 @@ a:focus {
 .grid {
 	pointer-events: none; 
 	position: absolute;
-	width: 90%;
-	height: 90%;
+	width: 105%;
+	height: 105%;
 	top: -5%;
 	left: -5%;
 	display: grid;
